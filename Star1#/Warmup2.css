@@ -1,0 +1,19 @@
+section {
+    width: 200px;
+    border: 15px;
+    padding: 50px;
+     margin: 90px;
+     border-style: dashed;
+     border-width: 20px;
+     border-color: black;
+}
+#section1 {
+   background-color: aqua;
+} 
+#section2 {
+  background-color: royalblue;
+}
+#section3 {
+
+    background-color: red;
+}
