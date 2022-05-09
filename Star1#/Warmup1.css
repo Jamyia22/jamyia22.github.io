@@ -1,0 +1,17 @@
+#header {
+    text-align:center;
+    font-weight: bold;
+    font-size: larger;
+}
+#section1 {
+    text-align:left
+} 
+#section2 {
+    Text-align:center;
+}
+#section3 {
+    Text-align: right;
+}
+#section4{
+    text-align:center;
+}
