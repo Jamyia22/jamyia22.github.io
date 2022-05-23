@@ -1,0 +1,72 @@
+/*
+https://www.schemecolor.com/red-and-purple-color-scheme.php
+Purple: #7E0080
+Violet: #9B51B4
+Pink: #DF6FA0
+Rose: #EF224B
+Red: #C20232
+ */
+
+body {
+    background-color: #C20232;
+    background-image: url("download-1.jpg" );
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+header {
+    text-align:center;
+    font-weight: bold;
+    font-size: larger;
+}
+section, header {
+    padding: 80px;
+    margin: 90px;
+}
+#section1 {
+    background-color: blueviolet;
+    text-align:center;
+    font-weight: 200;
+    font-size:x-large;
+}
+#section2 {
+    background-color:#9B51B4;
+    text-align:center;
+    font-weight: 200;
+    font-size:x-large;
+}
+#section3 {
+ background-color:#EF224B;
+ text-align:center;
+    font-weight: 200;
+    font-size:x-large;
+
+    background-image: url("download.png"), url("images.png");
+    background-position: 1em center,90% center;
+    background-repeat: no-repeat;
+    background-size: auto 80%;
+    
+}
+#section4 {
+   background-color: aqua;
+    text-align:center;
+    font-weight: 200;
+    font-size:x-large;
+
+    background-image: url("download\ 11-38-01-578.jpg"), url("download-2.jpg");
+    background-position: 1em center,90% center ;
+    background-repeat: no-repeat;
+    background-size: auto 80%;
+}
+#section5 {
+    background-color: rosybrown;
+    text-align:center;
+    font-weight: 200;
+    font-size:x-large;
+    background-image: url("download-3.jpg"), url("download.jpg");
+    background-position: 1em center,90% center ;
+    background-repeat: no-repeat;
+    background-size: auto 80%;
+}
